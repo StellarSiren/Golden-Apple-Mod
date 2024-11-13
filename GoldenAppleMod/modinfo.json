@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "name": "GoldenAppleMod",
+    "description": "Golden Apple Mod",
+    "authors": [
+        "reiko"
+    ],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.15.0"
+    }
+}

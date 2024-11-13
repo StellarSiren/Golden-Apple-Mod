@@ -1,0 +1,17 @@
+{
+    "code": "goldenapple",
+    "class": "Item",
+    "nutritionProps": {
+        "saturation": 6,
+        "nutrition": 15
+    },
+    "creativeinventory": [
+        {
+            "class": "item",
+            "category": "Food"
+        }
+    ],
+    "texture": {
+        "base": "goldenapplemod:textures/item/goldenapple"
+    }
+}
